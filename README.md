@@ -1,18 +1,12 @@
-<p align="left">Hello World!!</p>
+<h1 align="center">Hi 👋, I'm Devendra</h1>
 
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<p align="left">- 👨🏽‍💻 I am currently working as a Security Engineer @KreditBee<br>- 💓 Passionate about Cyber Security, Purple Teaming, problem-solving, and automating cyber security!<br>- 💬 Ask me about Web Exploitation, Red Teaming, Active Directory, and API Security - I am delighted to help!<br>- 😄 Pronouns: He/Him</p>
 
 ###
 
 <img src="https://raw.githubusercontent.com/sharathdev19/sharathdev19/output/snake.svg" alt="Snake animation" />
 
-###
+## Glad to see you here! Feel free to connect with me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/devendra-nath-b343a5190/" target="_blank">
@@ -36,22 +30,13 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
 
+# 💻 Tech Stack: 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -96,27 +81,21 @@
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
-###
 
-<div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=DEVEN99&theme=default" alt="Layout with last medium posts"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sharathdev19/count.svg?"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
+### 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharathdev19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharathdev19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+
+### Visitors Count 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sharathdev19/count.svg?"  />
 </div>
 
 ###

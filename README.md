@@ -2,9 +2,6 @@
 
 <p align="left">- 👨🏽‍💻 I am currently working as a Security Engineer @KreditBee<br>- 💓 Passionate about Cyber Security, Purple Teaming, problem-solving, and automating cyber security!<br>- 💬 Ask me about Web Exploitation, Red Teaming, Active Directory, and API Security - I am delighted to help!<br>- 😄 Pronouns: He/Him</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/sharathdev19/sharathdev19/output/snake.svg" alt="Snake animation" />
 
 ## Glad to see you here! Feel free to connect with me:
 

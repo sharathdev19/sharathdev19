@@ -1,35 +1,25 @@
 <h1 align="center">Hi 👋, I'm Devendra</h1>
 
-<p align="left">- 👨🏽‍💻 I am currently working as a Security Engineer @KreditBee<br>- 💓 Passionate about Cyber Security, Purple Teaming, problem-solving, and automating cyber security!<br>- 💬 Ask me about Web Exploitation, Red Teaming, Active Directory, and API Security - I am delighted to help!<br>- 😄 Pronouns: He/Him</p>
+<p align="left">
+- 👨🏽‍💻 I am currently working as a Security Engineer @KreditBee<br>
+- 💓 Passionate about Cyber Security, Purple Teaming, problem-solving, and automation!<br>
+- 💬 Ask me about Web Exploitation, Red Teaming, Active Directory, Cloud Securty and API Security - I am delighted to help!<br>
+- 👯 I am looking forward to collaborate on Bug Bounty <br>
+- 🧠 Certified with CompTIA Secuity + and Certified Red Team Professional [CRTP] <br>
+
+</p>
 
 
 ## Glad to see you here! Feel free to connect with me:
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/devendra-nath-b343a5190/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/Asva_Shelby" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="59" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discordapp.com/users/927220061117222962" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://medium.com/@DEVEN99" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="59" height="40" alt="medium logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="40" alt="gmail logo"  />
-  <a href="https://tryhackme.com/p/Sharathdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="59" height="40" alt="tryhackme logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="59" height="40" alt="youtube logo"  />
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-nath-b343a5190/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Asva_Shelby)
+ [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/927220061117222962)
+ [![THM Badge](https://img.shields.io/badge/-TryHackMe-841617?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Sharathdev)
 
-###
+<br>
 
-
-
-# 💻 Tech Stack: 
+## 💻 Tech Stack: 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -80,7 +70,7 @@
 
 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharathdev19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -89,10 +79,9 @@
 
 
 
-### Visitors Count 
+## Visitors Count 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sharathdev19/count.svg?"  />
 </div>
 
-###
